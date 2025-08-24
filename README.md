@@ -46,6 +46,4 @@ The survey includes responses from thousands of professionals, students, and ent
 - Develop a **dashboard** (Power BI / Tableau) for interactive exploration.  
 - Extend analysis to deeper **career trends** across years.  
 
----
-
-## 📂 Project Structure  
+ 
